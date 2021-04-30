@@ -9,7 +9,7 @@
 
 ---
 
-<p align="left"> This documentation provides a detailed process on how to properly setup a connection to Databricks
+<p align="center"> This documentation provides a detailed process on how to properly setup a connection to Databricks
 	with Alteryx Designer to utilize Apache Spark's framework.
     <br> 
 </p>
