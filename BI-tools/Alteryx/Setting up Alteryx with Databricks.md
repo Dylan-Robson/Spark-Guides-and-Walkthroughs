@@ -5,8 +5,6 @@
 
 <h3 align="center">Connecting Alteryx to Databricks</h3>
 
-<div align="center">
-
 ---
 
 <p align="center"> This documentation provides a detailed process on how to properly setup a connection to Databricks
